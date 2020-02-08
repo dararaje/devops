@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file4 from dev1
+=======
+File4 in clone rep
+>>>>>>> 24e43bc81de2634848d28b512d6a394c6e028135
